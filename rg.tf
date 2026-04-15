@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "resource_rg" {
-  name     = "rg-ss-tfcloud"
+  name     = "rg-ss-tfcloud-1"
   location = "eastus"
 }
 
