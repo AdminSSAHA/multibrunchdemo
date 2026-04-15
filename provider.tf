@@ -3,7 +3,7 @@ terraform {
   cloud {
     organization = "terraformsscloud_org"
     workspaces {
-      name = "multibrunchdemo"
+      name = "multibrunchdemo_workspace"
     }
   }
 }
